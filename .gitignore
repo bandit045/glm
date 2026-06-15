@@ -1,3 +1,19 @@
+#-----------I_added_Bandit----------
+# Binaries
+bin/
+bin-int/
+#**/bin/         
+#**/bin-int/    
+
+# Visual Studio files and folder solution user filters - search help
+.vs/
+**.sln  
+**.vcxproj
+**.vcxproj.filters
+**.vcxproj.user
+**.csproj
+#-----------------------------------
+
 # Compiled Object files
 *.slo
 *.lo
